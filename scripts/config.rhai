@@ -1,4 +1,4 @@
-let titles_type = ["Dataset", "Survey", "Review", "Overview",
+let titles_type = ["Dataset",  "Review", "Overview",
 "Speech Coding", "Vector quantization", "Speech codec", "neural vocoder", "video compression"];
 let titles_model = ["BERT", "GPT", "Transformer"];
 let titles_method = ["Speech Coding", "Vector quantization", "Speech codec", "neural vocoder", "low bitrate"];
